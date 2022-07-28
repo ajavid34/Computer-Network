@@ -15,3 +15,4 @@ g++ −g −pthread message.h server.cpp client.cpp −o client
 ```
 . /client localhost:9000 {client name}
 ```
+![image](https://user-images.githubusercontent.com/79438681/181439245-ad2bee7a-5fe7-4105-b7eb-7dc33939bec3.png)
