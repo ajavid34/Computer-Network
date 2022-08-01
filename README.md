@@ -1,4 +1,4 @@
-# Computer-Network
+# Computer-Networks
 Computer Network - Assignments - Spring 2022
 ## Final Project
 In this assignment we create a simple chatroom by first creating a pair of server
